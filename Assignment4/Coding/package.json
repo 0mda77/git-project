@@ -1,0 +1,20 @@
+{
+  "name": "retail-store-api",
+  "version": "1.0.0",
+  "description": "Assignment 4 - Part 3: RESTful API for products, suppliers and sales using Node.js, Express.js and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Mohamed Emad Eldin Asaad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.10.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
